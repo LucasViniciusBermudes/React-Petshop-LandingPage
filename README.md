@@ -1,6 +1,6 @@
 #  React Petshop Landing Page
 
-🌍 ##Sobre o Projeto
+🌍 Sobre o Projeto
 
 Landing page profissional e responsiva para petshop, desenvolvida com **Next.js** e **TailwindCSS**, utilizando animações com **AOS (Animate On Scroll)**. O foco deste projeto é fornecer uma experiência moderna, visualmente atraente e com carregamento rápido.
 
